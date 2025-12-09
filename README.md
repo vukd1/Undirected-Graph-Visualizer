@@ -1,3 +1,5 @@
+<h1>JavaFX Undirected Graph Visualizer</h1>
+
 A simple JavaFX application for visualizing and transforming undirected graphs.
 
 Key features:
